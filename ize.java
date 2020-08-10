@@ -4,8 +4,8 @@ public class ize {
         System.out.println(turnBackString("valami"));
     }
 
-    public static void greet() {
-        System.out.println("Bence");
+    public static void greet(String param) {
+        System.out.println(param);
     }
 
     public static String turnBackString(String str) {
