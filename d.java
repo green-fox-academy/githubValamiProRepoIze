@@ -1,9 +1,11 @@
 public class d{
     public static void main{
-        future();
+        String text = "Print this one out";
+        future(text);
     }
 
-    public static void future(){
-      System.out.println("My horoscope/zodiac sign is pisces and the indian sign is wolf")
+    public static void future(String param){
+      System.out.println("My horoscope/zodiac sign is pisces and the indian sign is wolf");
+      System.out.println(param);
     }
 }
