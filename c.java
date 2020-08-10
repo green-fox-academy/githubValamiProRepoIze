@@ -6,6 +6,7 @@ public class c {
 
     public void cheer() {
         System.out.println("Cheers");
+        System.out.println("Java");
     }
 
 
