@@ -4,6 +4,6 @@ public class d{
     }
 
     public static void future(){
-      System.out.println("My horoscope/zodiac sign is pisces and the indian sign is wolf")
+      System.out.println("Chinise horoscope sign:")
     }
 }
